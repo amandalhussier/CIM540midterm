@@ -56,9 +56,4 @@ if(mouseX >= 120 && mouseX < 220 && mouseY >= 330 && mouseY < 430) {
     text("An annual $5,000 scholarship to a graduate student in the Department of Wildlife Ecology and Conservation at the University of Florida. This scholarship reflects Ron's deep commitment to training the next generation of conservationists.");
   }
 
-
-
-
-
-
 }
